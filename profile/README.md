@@ -1,4 +1,8 @@
-Experimenting on Starknet. 
+# dNFTs for DeFi
+### an interactive view of your borrowing positions
+
+With this app you'll be able to see in one place all the mess you have done accross the blockchains.
+
 
 <!--
 
