@@ -3,6 +3,13 @@
 
 With this app you'll be able to see in one place all the mess you have done accross the blockchains.
 
+Thanks to dynamic NFTs, you can see fully on-chain all of your borrowing positions in one place. 
+
+## Roadmap:
+1. Aggregate the position from a artificially created token
+2. Aggregate the positions from ZkLend
+3. Prove that the NFT is a real mirror of the position thanks to Herodotus
+4. Aggregate the positions from other chains
 
 <!--
 
