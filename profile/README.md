@@ -11,7 +11,7 @@ Thanks to dynamic NFTs, you can see fully on-chain all of your borrowing positio
 3. Prove that the NFT is a real mirror of the position thanks to Herodotus
 4. Aggregate the positions from other chains
 
-##Nowhere near finished
+## Nowhere near finished
 <!--
 
 **Here are some ideas to get you started:**
